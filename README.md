@@ -1,5 +1,5 @@
 ### [Aplikasi Perekaman Surat_Masuk](http://app-crud-surat-masuk.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1HJzItNz_Sahd5bGS7hXnq_n0uPlptcbq/view?usp=sharing) klik
+### [Diagram dan penjelasan](https://drive.google.com/file/d/1KMQTQNz2MjirfA0WQE5jqB_7v3mMmozZ/view?usp=sharing) klik
 #### By
 - Nama  : Samal Jihad
 - NIM   : 18090012
